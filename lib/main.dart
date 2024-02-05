@@ -21,7 +21,7 @@ class App extends StatelessWidget {
         ),
         cardColor: const Color(0xfff4eddb),
       ),
-      title: 'drawer',
+      title: 'Pomodoro',
       home: const HomeScreen(),
     );
   }
